@@ -1,0 +1,301 @@
+* {
+    font-family: "Inter", sans-serif; 
+    box-sizing: border-box;
+}
+
+.whatsapp-btn {
+    color: #27AE60;
+    padding: 10px 18px;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+/* .whatsapp-btn{
+    background-color: #27AE60;
+    color: white;
+} */
+.phone-btn {
+    border: transparent;
+    padding: 10px 18px;
+    color: white;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    border-radius: 8px;
+}
+
+.career h1 {
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.career h1 span {
+    color: #2699FB;
+    background: url('./Vector\ 63.png') no-repeat bottom;
+}
+
+.career p {
+    font-size: 22px;
+}
+
+.career ul li {
+    list-style: none;
+    font-size: 22px;
+}
+
+.career ul li i {
+    color: #2699FB;
+}
+
+.career-btn button {
+    width: 50%;
+}
+
+.demo-btn {
+    border: transparent;
+    padding: 16px 48px;
+    color: white;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    border-radius: 8px;
+    font-size: 16px;
+
+}
+
+.download-btn {
+    padding: 16px 28px;
+    border: transparent;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.career-form {
+    padding: 40px;
+    border-radius: 8px;
+}
+.input-group{
+    position: static !important;
+}
+.input-group>.form-control, .input-group>.form-select {
+    position: static !important;
+}
+/* .career-form .input-group{
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    width: 100%;
+}
+.career-form .input-group-text{
+    min-width: 60px;
+    justify-content: center;
+    background: #e9ecef;
+}
+.career-form .input-group .form-control{
+    flex: 1 1 auto;
+    width: 1%;
+} */
+
+.register-btn {
+    width: 100%;
+    border: transparent;
+    padding: 16px 48px;
+    color: white;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.student h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699FB;
+
+}
+
+.highlights {
+    background-color: #F7FAFF;
+}
+
+.highlights h3 {
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.highlights p {
+    font-size: 18px;
+}
+
+/* .highlights-items h4 {
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.highlights-items p {
+    font-size: 14px;
+
+} */
+
+.industry h4 {
+    font-size: 20px;
+    font-weight: 600;
+}
+.industry p{
+     font-size: 14px;
+}
+.class-btn{
+     border: transparent;
+    padding: 16px 48px;
+    color: white;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    border-radius: 8px;
+    font-size: 16px;
+}
+.digital-sec h2{
+    font-size: 44px;
+    font-weight: 700;
+}
+.content-card h4{
+    font-size: 18px;
+    font-weight: 600;
+}
+.content-card p{
+    font-size: 14px;
+}
+.certificate-sec{
+    background-color: #F7FAFF;
+}
+.certificate-sec h3{
+    font-size: 36px;
+    font-weight: 700;
+}
+.certificate-sec p{
+     font-size: 18px;
+}
+.certifiacte-card h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.certifiacte-card p{
+    font-size: 16px;
+}
+.pills-items .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: black;
+    border-bottom: 2px solid #2699FB;
+    border-radius: 0px;
+    background-color: #F2F4F7;
+    
+}
+.pills-items .nav-link{
+    color: black;
+    font-size: 18px;
+}
+.inside-item ul{
+    list-style: none;
+}
+.inside-item ul li{
+    font-size: 22px;
+}
+.inside-item ul li span{
+    padding-left: 67px;
+}
+.certificate-btn{
+     border: transparent;
+    padding: 16px 48px;
+    color: white;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    border-radius: 8px;
+    font-size: 16px;
+}
+.learn-sec{
+    background-color: #F7FAFF;
+}
+.learn-sec h3{
+    font-size: 36px;
+    font-weight: 700;
+}
+.learn-sec p{
+    font-size: 18px;
+}
+.learn-card h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.learn-card p{
+     font-size: 16px;
+}
+.student-sec h2{
+    font-size: 44px;
+    font-weight: 700;
+
+}
+.student-sec p{
+     font-size: 18px;
+
+}
+.student-card h4{
+    font-size: 20px;
+
+}
+.student-card p{
+    font-size: 18px;
+
+}
+.bg-card{
+    background-image: url('./Group\ 4493.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 1170px;
+    min-height: 384px;
+    height: auto;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.bg-card h3{
+    font-size: 44px;
+    font-weight: 700;
+    color: white;
+}
+.bg-card p{
+    font-size: 18px;
+    color: white;
+}
+.bg-btn{
+    border: transparent;
+    padding: 16px 48px;
+    border-radius: 8px;
+    font-weight: 500;
+}
+.faq h2{
+    font-size: 44px;
+    font-weight: 700;
+}
+.faq p{
+     font-size: 18px;
+}
+.faq{
+    background-color: #F7FAFF;
+}
+
+.footer{
+    background-color: #0A2540;
+    color: white;
+}
+.bottom{
+    border-top: 1px solid white;
+    border-width: 100%;
+}
+.footer p{
+     font-size: 16px;
+}
+.bottom p{
+    font-size: 16px;
+}
+.bottom p a{
+    color: white;
+
+}
+.accordion-button {
+    position: static !important;
+}

@@ -1,0 +1,165 @@
+@media only screen and (min-width: 200px) and (max-width: 757px) {
+    .btn-outer {
+        position: fixed;
+        bottom: 0px;
+        background-color: white;
+        padding: 5px 0px;
+        left: 0px;
+        width: 100%;
+        justify-content: center !important;
+    }
+
+    .whatsapp-btn .phone-btn {
+        padding: 7px 10px;
+    }
+
+    .career h1 {
+        font-size: 30px;
+        font-weight: 700;
+        text-align: center;
+    }
+
+    .career h1 br {
+        display: none;
+    }
+
+    .career p {
+        font-size: 16px;
+    }
+
+    .career ul li {
+        font-size: 16px;
+    }
+
+    .career-btn {
+        flex-direction: column;
+    }
+
+    .career-btn button {
+        width: 100%;
+    }
+
+    .demo-btn,
+    .download-btn {
+        font-size: 12px;
+    }
+
+    .career-form {
+        padding: 20px;
+
+    }
+
+    .highlights h3 {
+        font-size: 30px;
+        font-weight: 700;
+        text-align: center;
+    }
+
+    .highlights p {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .industry h4 {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .industry p {
+        font-size: 12px;
+        text-align: start;
+    }
+
+    .digital-sec h2 {
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    .digital-sec p {
+        font-size: 16px;
+    }
+
+    .certificate-sec h3 {
+        font-size: 32px;
+        font-weight: 700;
+        text-align: center;
+    }
+
+    .certificate-sec p {
+        font-size: 12px;
+        text-align: center;
+    }
+    .certificate-btn{
+        width: 100%;
+    }
+    .inside-item ul li{
+    font-size: 14px;
+}
+.inside-item ul li span{
+    padding-left: 0px;
+}
+.p-span{
+    padding-left: 35px !important;
+}
+.learn-sec h3{
+    font-size: 32px;
+    font-weight: 700;
+}
+.learn-sec p{
+    font-size: 12px;
+}
+.student-sec h2{
+    font-size: 32px;
+    font-weight: 700;
+
+}
+.student-sec p{
+     font-size: 12px;
+
+}
+.student-card p{
+    font-size: 16px;
+
+}
+.bg-card{
+    width: 100% !important;
+    height: auto !important;
+    /* min-height: 420px !important; */
+    padding: 30px 15px !important;
+    /* background-size: 100% 100% !important; */
+border-radius: 16px !important;
+}
+.bg-card br{
+    display: none;
+}
+.bg-card h3{
+    font-size: 32px;
+    font-weight: 700;
+    color: white;
+}
+.bg-card p{
+    font-size: 16px;
+    color: white;
+}
+.bg-btn{
+    padding: 12px;
+}
+.faq h2{
+    font-size: 32px;
+    font-weight: 700;
+}
+.faq p{
+     font-size: 14px;
+}
+}
+
+@media (min-width: 1400px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+        max-width: 1170px;
+    }
+}
